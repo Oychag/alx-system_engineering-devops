@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%b\n" "Hello. world \nHello, world"
+printf "%b\n" "Hello. world \nHello, world" > output.txt
